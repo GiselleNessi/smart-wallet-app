@@ -2,6 +2,8 @@
 
 A modern, sleek web application that provides seamless email-based authentication with automatic smart wallet creation. Built with React, TypeScript, and Tailwind CSS, this app offers a comprehensive wallet management experience.
 
+Demo live: https://smart-wallet-app-pcsj.vercel.app/
+
 ## ✨ Features
 
 ### 🔐 Seamless Email Authentication
